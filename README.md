@@ -1,6 +1,6 @@
 ![cover image](https://hvoltbb.github.io/pics/cover_pic2.png)
 # Tracking the effects of climate change on marine life
-
+[3/19/21 update: article submitted. Text for each section will be available when finalized]
 ## Quick View
 **Background**: 
 **Problem statement**: 

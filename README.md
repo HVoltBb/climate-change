@@ -25,12 +25,12 @@ This code has been tested on both Windows and Linux systems. There are no system
 ### Full source code
 It is recommended to go through the example above first to make sure you understand the core of the code, if you are not already familiar with TMB modelling. The controlling statements in the full source code can be too much for the first read. But once you understand the structure of the program, the code should be fairly simple to understand.
 
-The source files contains R scripts [1](src/v3.R), [2](src/preprocess.R), two header files [1](src/growth.h) and [2](src/growth_imp.h), and a [TMB script](src/v5.cpp).
+The source files contains R scripts [1](src/v3.R) and [2](src/preprocess.R), two header files [1](src/growth.h) and [2](src/growth_imp.h), and a [TMB script](src/v5.cpp).
 
 The code has been annotated and sectioned according to RStudio style. It is recommended to use RStudio to view the code.
 
 This code has been tested on both Windows and Linux systems with 8+ GB of RAM. 
 
-Warning: it is recommended to run the full program on a system with 8+ GB of RAM. Some of the large models require a substantial amount of memory to execute. Your system may freeze if you are low on available memory. Your R may crash if the TMB program is given a wrong set of inputs. Save your work first. 
+Warning: it is recommended to run the full program on a system with 8+ GB of RAM. Some of the large models require a substantial amount of memory to execute. Your system may freeze if you are low on available memory. Your R may crash if the TMB program is given a wrong set of inputs. You have been warned. Do save your work first. 
 
 Bug reports, feature requests and colabs are welcome. 

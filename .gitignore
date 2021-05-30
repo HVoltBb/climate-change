@@ -1,4 +1,4 @@
-data/
+data/*
 src/example/.Rhistory
 src/example/example.dll
 src/example/example.o

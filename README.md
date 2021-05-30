@@ -34,10 +34,10 @@ It is recommended to go through the example above first to make sure you underst
 
 The source files contain R scripts [1](src/v3.R) and [2](src/preprocess.R), two header files [1](src/growth.h) and [2](src/growth_imp.h), and a [TMB script](src/v5.cpp).
 
-The code has been annotated and sectioned according to RStudio style. It is recommended to use RStudio to view the code.
+The R code has been annotated and sectioned according to RStudio style. It is recommended to use RStudio to view the code.
 
 This code has been tested on both Windows and Linux systems with 8+ GB of RAM. 
 
 Warning: it is recommended to run the full program on a system with 8+ GB of RAM. Some of the large models require a substantial amount of memory to execute. Your system may freeze if you are low on available memory. Your R may crash if the TMB program is given a wrong set of inputs. You have been warned. Do save your work first. 
 
-Bug reports, feature requests and colabs are welcome. 
+Bug reports, feature requests, and colabs are welcome. 

@@ -14,6 +14,11 @@
 1.
 2.
 ### Data
+[Tagging database](https://www.fisheries.noaa.gov/inport/item/25121)
+
+[NAO indices](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml)
+
+Note: Neither of the datasets are owned/maintained by me. Please go to the original sources to obtain your own copy of the file. Questions solely related to the dataset should be directed to the data maintainers found in the links above. However, if the links provided above are not working, let me know.
 
 ### Example
 The example files can be found [here](src/example). That folder contains an [R script](src/example/example.R) and a [TMB script](src/example/example.cpp). To run this example, one other [R script](src/preprocess.R), and two header files [1](src/growth.h) and [2](src/growth_imp.h) are needed.

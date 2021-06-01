@@ -20,7 +20,7 @@
 
 [NAO indices](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml)
 
-Disclaimer: Neither of the datasets are owned/maintained by me. Please go to the original sources to obtain your own copy of the file. Questions solely related to the dataset should be directed to the data maintainers found in the links above. However, if the links provided above are not working, let me know. The format of the current version of the data files might be different from my copy, and you may need to change some lines in the [preprocessing code](src/preprocess.R) to take that into account. My own copy of the data files will be conditionally provided through PM.
+Disclaimer: Neither of the datasets are owned/maintained by me. Please go to the original source to obtain your own copy of the file. Questions solely related to the dataset should be directed to the data maintainers found in the links above. However, if the links provided above are not working, let me know. The format of the current version of the data files might be different from my copy, and you may need to change some lines in the [preprocessing code](src/preprocess.R) to take that into account. My own copy of the data files will be conditionally provided through PM (I'll setup an automatic response later).
 
 ### Example
 The example files can be found [here](src/example). That folder contains an [R script](src/example/example.R) and a [TMB script](src/example/example.cpp). To run this example, one other [R script](src/preprocess.R), and two header files [1](src/growth.h) and [2](src/growth_imp.h) are needed.

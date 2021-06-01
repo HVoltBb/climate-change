@@ -1,3 +1,8 @@
+/* Author/maintainer: Can Zhou [eidotog@gmail.com]
+ * Date: May 29 2021
+ * Version: 0.5
+*/
+
 #ifndef GROWTH_FUNCTIONS_XX
 #define GROWTH_FUNCTIONS_XX
 

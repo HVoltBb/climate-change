@@ -1,6 +1,9 @@
-/* This is a stripped down version of v5.cpp. With most of the controlling
+/* This is a stripped down version of v5.cpp. With most of the control
  * statements gone, this example should be helpfull for readers not familiar
  * with TMB to understand the core structure of the code.
+ *
+ * Note that the same effect of this example code can be achieved with v5.cpp,
+ * and the inclusion of this file is for learning purposes only.
  *
  * Author/maintainer: Can Zhou [eidotog@gmail.com]
  * Date: May 29 2021

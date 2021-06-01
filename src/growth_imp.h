@@ -1,3 +1,8 @@
+/* Author/maintainer: Can Zhou [eidotog@gmail.com]
+ * Date: May 29 2021
+ * Version: 0.5
+*/
+
 #include <cmath>
 
 namespace grow{

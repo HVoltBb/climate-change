@@ -1,7 +1,7 @@
 "
 Author/maintainer: Can Zhou [eidotog@gmail.com]
 Date: May 29 2021
-Version: 0.1
+Version: 0.3
 "
 # Libs ----
 require(TMB)

@@ -1,8 +1,13 @@
+/* Author/maintainer: Can Zhou [eidotog@gmail.com]
+ * Date: May 29 2021
+ * Version: 0.5
+*/
+
 #include <TMB.hpp>
 #include "growth.h"
 
-// v4 added measurement error
-// v5 removed l
+// v0.4 added measurement error
+// v0.5 removed l
 
 template<class Type>
 Type objective_function<Type>::operator() ()

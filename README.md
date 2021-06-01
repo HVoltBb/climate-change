@@ -20,7 +20,7 @@
 
 [NAO indices](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml)
 
-Disclaimer: Neither of the datasets are owned/maintained by me. Please go to the original source to obtain your own copy of the file. Questions solely related to the dataset should be directed to the data maintainers found in the links above. However, if the links provided above are not working, let me know. The format of the current version of the data files might be different from my copy, and you may need to change some lines in the [preprocessing code](src/preprocess.R) to take that into account. My own copy of the data files will be conditionally provided through PM (I'll setup an automatic response later).
+Disclaimer: Neither of the datasets are owned/maintained by me. Please go to the original source to obtain your own copy of the file. Questions solely related to the dataset should be directed to the data maintainers found in the links above. However, if the links provided above are not working, let me know. The format of the current version of the data files might be different from my copy, and you may need to change some lines in the [preprocessing code](src/preprocess.R) to take that into account. My own copy of the data files will be conditionally provided through PM (latency: hours) or through an automatic email server by clicking [here](#) (latency: secs) (not implemented yet).
 
 ### Example
 The example files can be found [here](src/example). That folder contains an [R script](src/example/example.R) and a [TMB script](src/example/example.cpp). To run this example, one other [R script](src/preprocess.R), and two header files [1](src/growth.h) and [2](src/growth_imp.h) are needed.
@@ -39,8 +39,5 @@ The R code has been annotated and sectioned according to RStudio style. It is re
 This code has been tested on both Windows and Linux systems with 8+ GB of RAM. 
 
 Warning: it is recommended to run the full program on a system with 8+ GB of RAM. Some of the large models require a substantial amount of memory to execute. Your system may freeze if you are low on available memory. Your R may crash if the TMB program is given a wrong set of inputs. You have been warned. Do save your work first. 
-
-### Exercise (optional)
-
 
 Bug reports, feature requests, and colabs are welcome. 

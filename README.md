@@ -3,6 +3,9 @@
 [3/19/21 update: article submitted. Text for each section will appear when finalized]
 
 [5/27/21 update: major revision]
+
+[6/17/21 update: minor revision]
+
 ## Quick View
 **Background**: 
 
@@ -25,7 +28,7 @@ Disclaimer: Neither of the datasets are owned/maintained by me. Please go to the
 ### Example
 The example files can be found [here](src/example). That folder contains an [R script](src/example/example.R) and a [TMB script](src/example/example.cpp). To run this example, one other [R script](src/preprocess.R), and two header files [1](src/growth.h) and [2](src/growth_imp.h) are needed.
 
-Download the [source directory](src) first, and then make `example` you working directory. Then, you can source the [R script](src/example/example.R) to fit a von Bertalanffy curve to see if it works correctly on your machine. A verification value has been provided in the comment section at the bottom of the script. Most likely, your R console will complain about missing libraries the first time you run it. Install them.
+Download the [source directory](src) first, and then make `example` you working directory. Then, you can source the [R script](src/example/example.R) to fit a von Bertalanffy curve to see if it works correctly on your machine. A verification value has been provided in the comment section at the bottom of the script. Getting exactly the same number as provided indicates success. Most likely, your R console will complain about missing libraries the first time you run it. Install them.
 
 This code has been tested on both Windows and Linux systems. There are no system requirements to run the example.
 

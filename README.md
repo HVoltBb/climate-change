@@ -1,4 +1,4 @@
-![cover image](https://hvoltbb.github.io/pics/cover_pic2.png)
+![cover image](https://hvoltbb.github.io/pics/blueshark.jpg)
 # Tracking the effects of climate change on marine life - Case study 1
 [3/19/21 update: article submitted. Text for each section will appear when finalized]
 

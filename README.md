@@ -1,5 +1,9 @@
 ![cover image](https://hvoltbb.github.io/pics/blueshark.jpg)
 # Tracking the effects of climate change on marine life - case study 1
+<p align="center">
+		![version: v0.5](https://img.shields.io/badge/version-v0.5-blue.svg)
+		[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+</p>
 [3/19/21 update: article submitted. Text for each section will appear when finalized]
 
 [5/27/21 update: major revision]

@@ -3,6 +3,7 @@
 
 ![version: v0.5](https://img.shields.io/badge/version-v0.5-blue.svg)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Platform: win | linux | ios](https://img.shields.io/badge/platform-win%20%7C%20linux%20%7C%20ios-lightgrey)
 
 [3/19/21 update: article submitted. Text for each section will appear when finalized]
 

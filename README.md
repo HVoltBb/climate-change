@@ -5,14 +5,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Platform: win | linux | ios](https://img.shields.io/badge/platform-win%20%7C%20linux%20%7C%20ios-lightgrey)
 
-[3/19/21 update: article submitted. Text for each section will appear when finalized]
-
-[5/27/21 update: major revision]
-
-[6/17/21 update: minor revision]
-
-[6/19/21 update: accepted]
-
 ## Quick View
 **Background**: Substantial progress has been made in identifying large-scale climate effect on somatic growth through the use of ageing-based methods in aquatic environments, yet their annual/seasonal temporal resolution seems too coarse for such a fast process. 
 
@@ -30,9 +22,9 @@
 Not being able to adopt a sufficiently high temporal resolution greatly constrains the power to track animal growth under climate change.
 
 ### Data
-[Tagging database](https://www.fisheries.noaa.gov/inport/item/25121)
+Case study tagging data [NOAA Fisheries Inport site](https://www.fisheries.noaa.gov/inport/item/25121)/[Data.gov site](https://catalog.data.gov/dataset/cooperative-shark-mark-recapture-database-mrdbs/resource/5d9ceb5f-2864-4e75-91ca-2800b402f855?inner_span=True)
 
-[NAO indices](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml)
+[Climate indices](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml)
 
 Disclaimer: Neither of the datasets are owned/maintained by me. Please go to the original source to obtain your own copy of the file. Questions solely related to the dataset should be directed to the data maintainers found in the links above. However, if the links provided above are not working, let me know. The format of the current version of the data files might be different from my copy, and you may need to change some lines in the [preprocessing code](src/preprocess.R) to take that into account. 
 
